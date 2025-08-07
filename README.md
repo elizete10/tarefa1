@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="UTF-8" />
+      <title>Sua Página Pessoal</title>
+   </head>
+
+   <body>
+      <h1>cliente:</h1>
+      <p>Olá, boa noite, meu nome é Isabella e eu gostaria do prato principal</p>
+
+      <ul>
+         <h1>Garçom:</h1>
+         <p>Claro Isabella, vou providenciar seu pedido</p>
+
+         <h1>Garçom:</h1>
+      <p>O cliente gostaria do prato principal</p>
+
+
+      <h1>Cozinheiro:</h1>
+         <p>Claro, pra já!</p>
+
+         <h1>Garçom:</h1>
+         <p>Pronto Isabella, aqui temos</p>
+         <li> entrada: batatas fritas</li>
+          <li> prato principal: macarão ao molho branco</li>
+           <li> sobremesa: sorvete</li>
+
+            <h1>cliente:</h1>
+      <p>Muito obrigada, fiquei muito satisfeito com o meu pedido!</p>
+
+        <h1>Garçom:</h1>
+      <p>A cliente agradeceu e ficou satisfeita</p>
+
+       <h1>Cozinheiro:</h1>
+         <p>Que bom, fico feliz!</p>
+      </ul>
+   </body>
+</html>  
